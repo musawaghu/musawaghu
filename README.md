@@ -60,7 +60,7 @@ Turns discharge summaries and radiology reports into structured, coded records a
 - **Languages:** Python · SQL · TypeScript
 - **ML and AI:** PyTorch · scikit-learn · XGBoost · OpenCV · Claude API · prompt engineering
 - **Data:** pandas · NumPy · PostgreSQL · SQLite · Supabase · Power BI · Streamlit
-- **Backend and Cloud:** FastAPI · Docker · Google Cloud Run · Vercel · Git
+- **Backend and Cloud:** FastAPI · Docker · Google Cloud Run · Vercel · Git · AWS
 
 ---
 
