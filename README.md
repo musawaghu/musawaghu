@@ -67,4 +67,5 @@ Turns discharge summaries and radiology reports into structured, coded records a
 ## Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-musawaghu.github.io-3054DE?logo=githubpages&logoColor=white)](https://musawaghu.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-musawaghu-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musawaghu)
+
+[LinkedIn](https://www.linkedin.com/in/musawaghu)
