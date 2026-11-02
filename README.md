@@ -5,13 +5,14 @@ I build data and AI products that solve real operational problems: taking a mode
 - 🌐 **Portfolio:** [musawaghu.github.io](https://musawaghu.github.io)
 - 🎓 **MS in Analytics** at Georgia Tech (in progress, 2027) · **BS in Computer Science**, data science minor, Cal Poly Pomona
 - 📋 **CAPM** certified (PMI)
-- 🏗️ Recently focused on AI for the **architecture, engineering, and construction (AEC)** industry
 - 🎯 Interested in **Forward Deployed Engineering**, **Product**, and **Data/AI** roles
 - 📍 Greater Chicago Area · open to relocation
 
 ---
 
 ## Featured Projects
+
+### [Suspense Resolver]: An AI tool that finds the song behind streaming royalty payments that arrive unmatched, so a person can approve the fix and the right artist gets paid. Rules handle most rows, a bounded Claude agent investigates near misses, and every fix needs human approval. Every confident match was right on 200 held-out synthetic test cases. Built solo at the Warner Music Group AI Hackathon (October 2026) using synthetic data only. The code is private.
 
 ### 🏛️ [FIRM FLOW](https://github.com/musawaghu/FirmFlow): AI onboarding for architecture firms
 **[Live demo](https://firmflow-iota.vercel.app)** · Built at an AEC hackathon with a five-person team
