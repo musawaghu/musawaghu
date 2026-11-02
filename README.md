@@ -12,7 +12,13 @@ I build data and AI products that solve real operational problems: taking a mode
 
 ## Featured Projects
 
-### [Suspense Resolver]: An AI tool that finds the song behind streaming royalty payments that arrive unmatched, so a person can approve the fix and the right artist gets paid. Rules handle most rows, a bounded Claude agent investigates near misses, and every fix needs human approval. Every confident match was right on 200 held-out synthetic test cases. Built solo at the Warner Music Group AI Hackathon (October 2026) using synthetic data only. The code is private.
+### 🎵 Suspense Resolver: finding the song behind unmatched royalty payments
+Solo build at the Warner Music Group AI Hackathon, October 2026 · Synthetic data only · Private code
+
+Streaming royalty payments can arrive without a valid code saying which recording earned them, so the money sits in suspense until someone finds the right song by hand. Suspense Resolver does that search: rules handle most rows, a bounded Claude agent investigates near misses, and a person approves every fix.
+
+- **Results:** on synthetic data, 100% precision on 200 held-out cases, 74% of 500 unmatched rows resolved, and 10 million rows processed in 72 seconds
+- **Stack:** Python, Claude API, Streamlit, RapidFuzz, Docker
 
 ### 🏛️ [FIRM FLOW](https://github.com/musawaghu/FirmFlow): AI onboarding for architecture firms
 **[Live demo](https://firmflow-iota.vercel.app)** · Built at an AEC hackathon with a five-person team
